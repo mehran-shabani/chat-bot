@@ -1,3 +1,7 @@
+---
+type: Journal
+---
+
 # Chat UI with Vibration
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
